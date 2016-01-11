@@ -28,7 +28,7 @@ Appium学习
 ---
 1. Appium基础架构讲解
 2. Linux基础命令讲解
-3. Appium结合maven和testng等实践等（恒温，大东）
+3. Appium结合maven和testng等实践等
 
 基础工具学习 
 ---
