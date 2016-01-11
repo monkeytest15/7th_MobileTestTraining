@@ -76,7 +76,7 @@ Android和iOS专项测试
 8. Android 自定义编写service监控性能实践（包括很详细的获取应用的电量、流量、内存、cpu、GC回收垃圾数据、应用启动时间等）
 9. iOS CoreAnimation
 10. iOS timeprofile使用
-11. iOS Zobime使用
+11. iOS Zombie使用
 
 持续集成
 ---
