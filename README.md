@@ -25,9 +25,9 @@ Monkey。嗯，不用介绍了。报名直接加微信monkey15chen，报名即�
 
 Appium学习
 ---
-Appium基础架构讲解
-Linux基础命令讲解
-Appium结合maven和testng等实践等（恒温，大东）
+1. Appium基础架构讲解
+2. Linux基础命令讲解
+3. Appium结合maven和testng等实践等（恒温，大东）
 
 基础工具学习 
 ---
@@ -49,32 +49,30 @@ Appium结合maven和testng等实践等（恒温，大东）
 
 Python学习
 ---
-Python基础语法学习
-Python语法练习
-Python进一步学习
-
-学习和实践python编写网络爬虫
-学习和实践python编写一套接口测试框架
+1. Python基础语法学习
+2. Python语法练习
+3. Python进一步学习
+4. 学习和实践python编写网络爬虫
+5. 学习和实践python编写一套接口测试框架
 
 Android开发学习
 ---
-Android ADT 学习和实践
-Android系统和应用架构了解
-编写简单的Activity应用
-编写简单的交互式应用
+1. Android ADT 学习和实践
+2. Android系统和应用架构了解
+3. 编写简单的Activity应用
+4. 编写简单的交互式应用
 
 Android和iOS专项测试
 ---
-
-Android traceview性能测试实践
-Android gfxinfo性能测试实践
-Android 内存泄漏监控测试实践
-Android 静态代码lint扫描实践
-Android获取电量，流量，内存，cpu消耗等数据
-如何制度Android应用的性能基线
-Android开源工具进行性能数据的获取
-Android 自定义编写service监控性能实践（包括很详细的获取应用的电量、流量、内存、cpu、GC回收垃圾数据、应用启动时间等）
-当然还有很多其他专项
+1. Android traceview性能测试实践
+2. Android gfxinfo性能测试实践
+3. Android 内存泄漏监控测试实践
+4. Android 静态代码lint扫描实践
+5. Android获取电量，流量，内存，cpu消耗等数据
+6. 如何制度Android应用的性能基线
+7. Android开源工具进行性能数据的获取
+8. Android 自定义编写service监控性能实践（包括很详细的获取应用的电量、流量、内存、cpu、GC回收垃圾数据、应用启动时间等）
+9. 当然还有很多其他专项
 
 持续集成
 ---
