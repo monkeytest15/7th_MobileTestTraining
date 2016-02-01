@@ -47,7 +47,6 @@ Appium学习
 3. 进行Android 单元测试框架roboltric框架学习
 4. 进行Android最新混合框架appium框架学习和实践
 5. Android中行为驱动测试开发的自动化框架calabash的学习和实践
-6. Android Esrepsso框架学习
 
 Python学习
 ---
